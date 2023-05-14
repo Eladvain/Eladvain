@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm Elad, a fullstack developer.
+
 B.Sc. Computer Science, Academic College of Tel-Aviv Yafo.
+
 I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C# \ JAVA.
 
 <!--
