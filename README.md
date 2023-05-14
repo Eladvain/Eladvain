@@ -25,6 +25,18 @@ Languages and Tools
 ![image](https://github.com/Eladvain/Eladvain/assets/85618143/d2f1c4b3-63e4-40f7-9e63-a301269c134c)
 ![image](https://github.com/Eladvain/Eladvain/assets/85618143/c1962afe-75a2-4d7f-a038-d40ddd0df77f)
 ![image](https://github.com/Eladvain/Eladvain/assets/85618143/e79f9cf2-5901-42fc-9dcf-b722b3155c68)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/adeaaeb1-c830-44c2-a123-76838b4c9581)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/48f9a58f-f6ea-4c80-9477-f699637e08f5)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/e0d1abc8-e982-4d25-8d6c-911964da2f32)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/575128cd-3a3e-4bb0-885d-4e79d2717ffc)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/4e10257a-5d90-4871-886e-a9313a611ceb)
+![image](https://github.com/Eladvain/Eladvain/assets/85618143/3c360756-16b8-425c-94e0-d423e7956dd0)
+
+
+
+
+
+
 
 
   
