@@ -9,7 +9,9 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
 - 🌱 I’m currently learning on new technologies.
 -  📫 How to reach me: 
                           054-258-221 
+                          
                           eladvainberg@gmail.com
+                          
                           https://www.linkedin.com/in/elad-vainberg-2580/
 
 Languages and Tools 
