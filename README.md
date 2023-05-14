@@ -16,6 +16,30 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
                           https://www.linkedin.com/in/elad-vainberg-2580/
 
 Languages and Tools 
+
+HTML5
+CSS3
+JavaScript
+TypeScript
+C
+CS
+Java
+Tailwind
+React
+GraphQL
+Node.js
+Deno
+Spring
+MongoDB
+Neo4j
+PostgreSQL
+Git
+GitHub
+Terminal
+Docker
+GCP
+
+
   
 
 <!--
