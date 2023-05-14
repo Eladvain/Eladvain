@@ -17,27 +17,6 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
 
 Languages and Tools 
 
-HTML5
-CSS3
-JavaScript
-TypeScript
-C
-CS
-Java
-Tailwind
-React
-GraphQL
-Node.js
-Deno
-Spring
-MongoDB
-Neo4j
-PostgreSQL
-Git
-GitHub
-Terminal
-Docker
-GCP
 
 
   
