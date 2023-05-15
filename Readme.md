@@ -22,16 +22,16 @@ Languages and Tools
 
 
 <div id="header" align="center">
-  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="20" height="20"/>
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="50" height="50"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="20" height="20"/>
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="50" height="50"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/d2f1c4b3-63e4-40f7-9e63-a301269c134c" width="20" height="20"/>
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/d2f1c4b3-63e4-40f7-9e63-a301269c134c" width="50" height="50"/>
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/c1962afe-75a2-4d7f-a038-d40ddd0df77f" width="20" height="20"/>
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/c1962afe-75a2-4d7f-a038-d40ddd0df77f" width="50" height="50"/>
 </div>
 
 
