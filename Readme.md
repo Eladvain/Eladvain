@@ -21,10 +21,10 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
 Languages and Tools 
 
 
-<div id="header" align="center" display="flex">
+<div id="header" align="center" style="float:left">
   <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="50" height="50"/>
 </div>
-<div id="header" align="center" display="flex">
+<div id="header" align="center" style="float:left">
   <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="50" height="50"/>
 </div>
 <div id="header" align="center" display="flex">
