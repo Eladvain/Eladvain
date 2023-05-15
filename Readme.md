@@ -12,8 +12,8 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
 
 
 -  <div style="display:inline-block">
-      <a href="https://pagedart.com">
-        <img src="![image](https://github.com/Eladvain/Eladvain/assets/85618143/7e418eda-3746-4da9-823a-04c0a56236f3)">
+      <a href="https://www.linkedin.com/in/elad-vainberg-2580/">
+        <img src="![image](https://github.com/Eladvain/Eladvain/assets/85618143/7e418eda-3746-4da9-823a-04c0a56236f3)" width="50" height="50">
       </a>
                           054-258-221 
                           
