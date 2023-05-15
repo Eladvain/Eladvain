@@ -22,6 +22,15 @@ Languages and Tools
 
 
 <div id="header" align="center">
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://github.com/Eladvain/Eladvain/assets/85618143/16cadb7f-5519-4256-9f60-42c36a35837f" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
