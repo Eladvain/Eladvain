@@ -13,14 +13,13 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
 
 -  <div style="display:inline-block">
       <a href="https://www.linkedin.com/in/elad-vainberg-2580/">
-        <img src="https://github.com/Eladvain/Eladvain/assets/85618143/8687ac10-4b3d-43b1-99f4-39943fed9eb3" width="50" height="50">
+        <img src="https://github.com/Eladvain/Eladvain/assets/85618143/8687ac10-4b3d-43b1-99f4-39943fed9eb3" width="35" height="35">
       </a>
-                          054-258-221 
-                          
-                          eladvainberg@gmail.com
-                         
-                          https://www.linkedin.com/in/elad-vainberg-2580/
-
+      <a href="/eladvainberg@gmail.com">
+        <img src="https://github.com/Eladvain/Eladvain/assets/85618143/9d4effdc-c8f9-43e1-bb3d-d147e3612350" width="35" height="35">
+      </a>
+                          054-258-221                          
+                                 
 <h1>
 Languages and Tools
 </h1>  
