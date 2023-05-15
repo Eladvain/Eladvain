@@ -5,7 +5,7 @@ I'm Elad, a fullstack developer.
 
 B.Sc. Computer Science, Academic College of Tel-Aviv Yafo.
 
-I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C# \ JAVA.
+<p>I'm looking for Full-Stack Developer Position - <h1 style="color:DodgerBlue;"> JavaScript \ Node.js \ React \ C# \ JAVA </h1></p>.
 
 - 🌱 I’m currently learning on new technologies.
 -  📫 How to reach me: 
@@ -18,7 +18,8 @@ I'm looking for Full-Stack Developer Position - JavaScript \ Node.js \ React \ C
       <a href="/eladvainberg@gmail.com">
         <img src="https://github.com/Eladvain/Eladvain/assets/85618143/9d4effdc-c8f9-43e1-bb3d-d147e3612350" width="35" height="35">
       </a>
-                          054-258-221                          
+      <div>    054-258-221</div>
+                                                   
                                  
 <h1>
 Languages and Tools
